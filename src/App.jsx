@@ -18,7 +18,7 @@ function App() {
         <div>
           <h1>Get started</h1>
           <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
+            Edit <code>src/App.jsx</code> and save to test for futher use and delete if no need <code>HMR</code>
           </p>
         </div>
         <button
